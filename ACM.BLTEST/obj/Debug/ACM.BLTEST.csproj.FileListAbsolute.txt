@@ -1,0 +1,7 @@
+c:\users\arnis\documents\visual studio 2013\Projects\ACM\ACM.BLTEST\bin\Debug\ACM.BLTEST.dll
+c:\users\arnis\documents\visual studio 2013\Projects\ACM\ACM.BLTEST\bin\Debug\ACM.BLTEST.pdb
+c:\users\arnis\documents\visual studio 2013\Projects\ACM\ACM.BLTEST\bin\Debug\ACM.BL.dll
+c:\users\arnis\documents\visual studio 2013\Projects\ACM\ACM.BLTEST\bin\Debug\ACM.BL.pdb
+c:\users\arnis\documents\visual studio 2013\Projects\ACM\ACM.BLTEST\obj\Debug\ACM.BLTEST.csprojResolveAssemblyReference.cache
+c:\users\arnis\documents\visual studio 2013\Projects\ACM\ACM.BLTEST\obj\Debug\ACM.BLTEST.dll
+c:\users\arnis\documents\visual studio 2013\Projects\ACM\ACM.BLTEST\obj\Debug\ACM.BLTEST.pdb
