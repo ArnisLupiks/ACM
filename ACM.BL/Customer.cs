@@ -47,6 +47,26 @@ namespace ACM.BL
                 return fullName;
             }
         }
+        /// <summary>
+        /// Retrieve one customer
+        /// </summary>
+       
+        public Customer Retrieve(int customerId)
+        {
+            //code that retrieves the defined customer
+            return new Customer();
+        }
+
+
+        /// <summary>
+        /// Saves the current customer.
+        /// </summary>
+        /// <returns></returns>
+        public bool Save()
+        {
+            //code that saves the defined customer
+            return true;
+        }
 
         public bool Validate()
         {
