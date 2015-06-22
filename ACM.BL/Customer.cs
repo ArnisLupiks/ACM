@@ -8,6 +8,16 @@ namespace ACM.BL
 {
     public class Customer
     {
+        public Customer()
+        {
+
+        }
+
+        public Customer(int customerId)
+        {
+            this.CustomerId = customerId;
+        }
+
         public static int InstanceCount { get; set; }
 
         private string _lastName;
@@ -55,6 +65,15 @@ namespace ACM.BL
         {
             //code that retrieves the defined customer
             return new Customer();
+        }
+
+        /// <summary>
+        /// Retrieves lists of customers
+        /// </summary>
+        
+        public List<Customer> Retrieve()
+        {
+            return new List<Customer>();
         }
 
 
